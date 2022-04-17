@@ -1,0 +1,18 @@
+# notes-app-queue-consumer
+penggunaan RabbitMQ Management
+
+add .env file
+# node-postgres configuration
+PGUSER=
+PGHOST=localhost
+PGPASSWORD=
+PGDATABASE=
+PGPORT=5432
+
+
+# nodemailer SMTP authentication
+MAIL_ADDRESS=
+MAIL_PASSWORD=
+
+# Message broker
+RABBITMQ_SERVER=amqp://localhost
